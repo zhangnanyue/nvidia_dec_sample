@@ -1,0 +1,3 @@
+/home/pc/zhangnanyue/github/nvidia_dec_sample/build/CMakeFiles/rebuild_cache.dir
+/home/pc/zhangnanyue/github/nvidia_dec_sample/build/CMakeFiles/edit_cache.dir
+/home/pc/zhangnanyue/github/nvidia_dec_sample/build/CMakeFiles/nvidiadec.dir
